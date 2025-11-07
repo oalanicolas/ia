@@ -104,36 +104,8 @@ Use: YouTube Hashtag → Otimização SEO
 Use: Prompt Resumo de Podcast → Síntese de episódios
 ```
 
-## 💰 ROI Documentado
 
-### Meus Resultados Pessoais
-- **Vendas:** +R$340k em 6 meses
-- **Tempo economizado:** 200+ horas
-- **Produtividade:** 4x mais rápido
-- **MRR:** De $12k para $34k (cliente SaaS)
 
-### Métricas Comprovadas
-- **Cold emails:** 45%+ resposta (vs 8% média)
-- **Landing pages:** 3x conversão
-- **Posts sociais:** 300% mais engagement
-- **Conteúdo:** 20 horas/mês economizadas
-
-## 🚀 Quick Start - Comece Agora
-
-### Semana 1 - Fundação
-1. Instale 3 commands: `/cold-email`, `/aida-copy`, `/linkedin-post`
-2. Configure Prompt Clone com sua voz
-3. Teste 1 agent: `backend-architect` ou `python-pro`
-
-### Semana 2 - Expansão
-1. Adicione `/advertiser` e `/social-media`
-2. Configure Aurora ou Atena SDR
-3. Implemente workflow de conteúdo
-
-### Semana 3 - Otimização
-1. Meça resultados
-2. Ajuste prompts para sua voz
-3. Dobre o que funciona
 
 ## 📚 Documentação Detalhada
 
@@ -168,6 +140,55 @@ Use: Prompt Resumo de Podcast → Síntese de episódios
 - **langgptai/awesome-claude-prompts** - Otimizados para Claude
 - **Reddit r/ClaudeAI** - Feedback real da comunidade
 
+## 📥 Download Direto - Para Visitantes do mentelendaria.com
+
+Se você está acessando este conteúdo pelo site e quer baixar os materiais:
+
+### 🔗 Links Diretos no GitHub
+
+**Baixar TUDO de uma vez:**
+```bash
+git clone https://github.com/oalanicolas/mentelendaria.com.git
+```
+Os recursos de IA estão em: `mentelendaria.com/IA/`
+
+### Downloads Específicos:
+
+#### 📦 Commands Testados (Marketing/Vendas)
+- [Download: Cold Email (45% resposta)](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/sales/cold-email.md)
+- [Download: Advertiser (Campanhas)](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/marketing/advertiser.md)
+- [Download: AIDA Copy (Conversão 3x)](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/marketing/aida-copy.md)
+- [Download: LinkedIn Post (Viral)](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/content/linkedin-post.md)
+- [Download: Social Media Manager](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/marketing/social-media.md)
+
+#### 🤖 Agents do Claude Code
+- [Ver todos 31 agents](https://github.com/oalanicolas/mentelendaria.com/tree/main/IA/Claude%20Code/agents)
+- [Download: Documentação Completa](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/agents/README.md)
+
+#### 💡 Prompts Especializados
+- [Ver todos 36 prompts](https://github.com/oalanicolas/mentelendaria.com/tree/main/IA/Prompts)
+- [Download: Prompt Clone (Base)](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Prompts/Prompt%20Clone.md)
+- [Download: Prompts Alan IA](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Prompts/Prompts%20Alan%20IA.md)
+
+#### 📊 Resultados e Casos
+- [RESULTADOS REAIS - Meus Testes](https://github.com/oalanicolas/mentelendaria.com/blob/main/IA/Claude%20Code/commands/RESULTADOS%20REAIS.md)
+
+### Como Baixar Individual:
+1. Clique no link do arquivo que quer
+2. Clique no botão "Raw" no GitHub
+3. Salve com `Ctrl+S` (ou `Cmd+S` no Mac)
+4. Coloque em `.claude/commands/` no seu PC
+
+### Estrutura para Download:
+```
+📥 Baixar pasta completa IA/
+   ├── 📥 Claude Code/ (agents + commands)
+   ├── 📥 Prompts/ (36 prompts)
+   └── 📥 Este README com todos links
+```
+
+**Dica:** Star ⭐ o repositório para acompanhar atualizações!
+
 ## 🔗 Conexões
 
 ### No Vault
@@ -177,7 +198,6 @@ Use: Prompt Resumo de Podcast → Síntese de episódios
 
 ### No GitHub
 - [github.com/oalanicolas/ia](https://github.com/oalanicolas/ia) - Repositório
-- [github.com/oalanicolas/mentelendaria.com](https://github.com/oalanicolas/mentelendaria.com) - Vault completo
 
 ### Fontes Externas
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
